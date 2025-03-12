@@ -1,21 +1,22 @@
-Hello there, thank you for checking out my project!
+Welcome to RSHelper!
 
-RSHelper is a project inspired by D3Helper, a script used to automate ability casting in Diablo 3.
+RSHelper is inspired by D3Helper, a popular automation script for Diablo 3. It’s designed to streamline repetitive tasks in RuneScape, making your gameplay smoother and more efficient.
+Why Use RSHelper?
 
-Why use RSHelper?
-RSHelper focuses on automising chores such are drinking overloads, weapon poisons etc.
-Additionally anything that you can place on your ability bar can be automated. This includes:
-Summoning Familiars, Applying seren spells, Using Excalibur / Ritual shard and much more.
+RSHelper focuses on automating in-game chores like drinking overloads, applying weapon poisons, and much more. Anything that can be placed on your ability bar can be automated, including:
 
-What can you expect from RSHelper?
-- 5 Customisable keybinds (including Shift, Alt, CTRL binds) each with a seperate Interval. The interval has a 0-150ms delay to avoid bot detection.
-- A Script time-out, this causes the script to automatically terminate after a set time. Perfect for timing up alongside an aura.
-- Auto-looter, enabling this causes a spacebar keystroke to be sent every 20-30 seconds. This will loot assuming you have the area-loot interface open.
-- Save Settings, an option that duplicates a script and allows you to save a new script with the settings that are currently in the interface.
-  This allows you to have multiple different versions of this script for different tasks.
+✔ Summoning familiars
+✔ Casting Seren spells
+✔ Using Excalibur / Ritual Shard
+✔ And many other useful actions!
+Features
 
-The script is written in AutoHotKey format and is open source. Feel free to give feedback or fork versions
-If you wish to support me you can find a link to my PayPal inside the script itself under ReadMe. 
+    Five customizable keybinds – Supports Shift, Alt, and CTRL modifiers, each with its own interval. To reduce detection risks, a 0-150ms random delay is applied to keystrokes.
+    Script timeout – The script can automatically terminate after a set duration, making it perfect for syncing with auras.
+    Auto-looter – Sends a spacebar keystroke every 20-30 seconds to loot items, assuming you have the area-loot interface enabled.
+    Save Settings – Create custom versions of the script with your current settings saved, allowing you to switch between setups easily.
 
-*!Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note! !Note!*
-**THIS SCRIPT GOES AGAINST JAGEX TERMS OF SERVICES AND MIGHT GET YOU SUSPENDED FROM THE GAME, USE ARE YOU OWN RISK**
+The script is open-source and written in AutoHotkey. Feedback and forks are welcome! If you’d like to support the project, you’ll find a PayPal link inside the script under the ReadMe section.
+
+⚠ Important Notice ⚠
+This script violates Jagex's Terms of Service and may result in account suspension. Use at your own risk.
